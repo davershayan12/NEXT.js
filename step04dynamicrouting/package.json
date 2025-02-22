@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "step04dynamicrouting",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,9 +23,5 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.7",
     "@eslint/eslintrc": "^3"
-  },
-  "scripts": {
-  "list": "dir"
   }
-
 }
