@@ -7,4 +7,5 @@ export default async function Docs({params,}:{params: Promise<{slug:string[]}>})
     }else if(slug?.length === 1){
         return <h1>view doc feature{slug[0]}.</h1>
     }
+    return <h1>doc</h1>
 }
